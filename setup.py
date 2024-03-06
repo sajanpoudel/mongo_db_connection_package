@@ -18,11 +18,11 @@ with open('README.md', 'r', encoding='utf-8') as f:
     long_description = f.read()     
    
 
-__version__ = "0.0.6"
-REPO_NAME = "mongodb_connector"
-PKG_NAME= "MongoConnect"
-AUTHOR_USER_NAME = "sunnysavita10"
-AUTHOR_EMAIL = "sunny.savita@ineuron.ai"
+__version__ = "0.0.1"
+REPO_NAME = "mongo_db_connection_package"
+PKG_NAME= "MongoDBConnection"
+AUTHOR_USER_NAME = "sajanpoudel"
+AUTHOR_EMAIL = "sajan123poudel4@gmail.com"
 
 setup(
     name=PKG_NAME,
